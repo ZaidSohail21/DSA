@@ -1,0 +1,238 @@
+﻿  Task1.cpp
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(45,2): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(45,6): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(46,2): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(46,2): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(45,2): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(45,6): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(52,15): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(53,3): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(53,12): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(55,2): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(56,2): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(56,2): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(52,15): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(53,3): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(53,12): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(55,2): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(61,2): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(61,2): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(65,22): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(65,22): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(66,3): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(66,12): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(68,2): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(68,2): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(66,3): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(66,12): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(73,22): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(73,22): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(74,11): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(74,11): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(82,6): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(82,6): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(92,6): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(92,6): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(92,21): error C3861: 'maxsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(92,21): error C2065: 'maxsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(102,9): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(102,9): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(107,6): error C2065: 'maxsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(107,6): error C3861: 'maxsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(108,3): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(108,3): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(118,9): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(118,13): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(118,9): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(118,13): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(122,22): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(122,22): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(123,7): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(123,7): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(146,22): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(146,22): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(147,15): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(148,11): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(148,11): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(147,15): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(160,22): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(160,22): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(161,7): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(161,7): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(162,8): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(162,8): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(164,15): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(166,13): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(166,13): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(166,39): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(166,39): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(167,21): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(164,15): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(167,21): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(181,22): error C2065: 'currentsize': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(181,22): error C3861: 'currentsize': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(182,7): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(182,7): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(183,8): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(183,8): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(185,14): error C3861: 'arr': identifier not found
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(187,13): error C2065: 'arr': undeclared identifier
+  (compiling source file 'Task1.cpp')
+  
+D:\Downloads\Semester no 4\DSA\Lab\Lab Tasks\Lab_03\Lab_03\Mylist.h(187,13): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'Task1.cpp')
+  
